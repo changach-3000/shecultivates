@@ -17,9 +17,9 @@ function LandingPage() {
           d="M0,160L48,154.7C96,149,192,139,288,138.7C384,139,480,149,576,170.7C672,192,768,224,864,229.3C960,235,1056,213,1152,197.3C1248,181,1344,171,1392,165.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
         ></path>
       </svg>
-  <div class="container col-xxl-8 px-4">
+  <div class="container col-xxl-8">
  
-    <div class="row flex-lg-row-reverse align-items-center g-5">
+    <div class="row align-items-center ">
        
       <div class=" banner col-12 col-md-6 col-lg-6">
         <video
